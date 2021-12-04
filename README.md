@@ -1,6 +1,6 @@
 # Collatz demystified
 
-Here will I present an article about the Collatz Conjecture as soon it is ready to show.
+Here I will present an article about the Collatz Conjecture as soon it is ready to show.
 
 
 intermediate steps:

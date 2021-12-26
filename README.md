@@ -17,3 +17,10 @@ cf09b2d84434e687182601c8528974bbf16c53ea04e8df17e7002e6cb47cdc65fb800f26c80ec2a0
 https://pastebin.com/jFuhKyrB
 
 https://zerobin.net/?a787d3c272da81e5#7buVIfRf77MbrPf8ncy+mL4GUI53YIAQ0qFGMcliwqY=
+
+
+2e3281b1ace52a43663ed2096871485a22b8f33f59d9b85e8a36be1e55aafa3efd4f1010a2a1d2ec7856d5cb0ec8f2b04a9a02626f9e9eb468e2e82ae8558ecf  collatz_1640491094.tex
+
+https://pastebin.com/MT96UhB5
+
+https://zerobin.net/?5e4c33bc7b68d68a#1EHF5f2L6C2z3OOEnokA9KYlX/pu69JKlwvODwMuytE=https://zerobin.net/?5e4c33bc7b68d68a#1EHF5f2L6C2z3OOEnokA9KYlX/pu69JKlwvODwMuytE=

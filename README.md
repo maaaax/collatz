@@ -2,7 +2,9 @@
 ## Dear Visitor!
 
 Feel free to fork this repository and/or create a derived article from it.
+
 If you think it’s worth publishing and you are an endorser, please tell me!
+
 If you found some bug or have suggestions to beautify the images in the pdf, please tell me! Pull requests welcome!
 
 If you have found a way to solve the graph, please DON’T tell me, as I’m probably not able to verify it.

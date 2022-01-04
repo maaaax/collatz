@@ -1,7 +1,3 @@
-# Collatz demystified
-
-Here I will present an article about the Collatz Conjecture as soon it is ready to show.
-
 
 intermediate steps:
 
@@ -24,3 +20,7 @@ https://zerobin.net/?a787d3c272da81e5#7buVIfRf77MbrPf8ncy+mL4GUI53YIAQ0qFGMcliwq
 https://pastebin.com/MT96UhB5
 
 https://zerobin.net/?5e4c33bc7b68d68a#1EHF5f2L6C2z3OOEnokA9KYlX/pu69JKlwvODwMuytE=https://zerobin.net/?5e4c33bc7b68d68a#1EHF5f2L6C2z3OOEnokA9KYlX/pu69JKlwvODwMuytE=
+
+
+Encrypted archive:
+https://github.com/maaaax/olla

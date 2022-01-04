@@ -1,7 +1,9 @@
 # Collatz tree decomposed
 ## Dear Visitor!
 
-Feel free to fork this repository and/or create a derived article from it.
+As this article is not (yet) on arxiv, the link to this repo has been posted in several discussion groups and some people related to this topic.
+
+Feel free to fork this repository and/or create a derived article from it but please give credits :)
 
 If you think it’s worth publishing and you are an endorser, please tell me!
 

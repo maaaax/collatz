@@ -1,6 +1,10 @@
 # Collatz tree decomposed
 ## Dear Visitor!
 
+Many thanks for the feedback, I will work on it as soon as possible!
+Actually, I haven't read other articles before because it would have probably demotivated me during the work. It's not the best order to do it, I know..
+
+
 As this article is not (yet) on arxiv, the link to this repo has been posted in several discussion groups and some people related to this topic were informed.
 
 Feel free to fork this repository and/or create a derived article from it but please give credits :)

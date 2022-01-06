@@ -21,9 +21,9 @@ By decomposing the Collatz tree into a two-dimensional odd-even relation we show
 # The Article
 [Collatz tree decomposed](collatz_tree_decomposed.pdf)
 
-# Odd-even-odd network by index
+# Odd-even-odd network by odd numbers N_g=2g+1, N_k=2k+1 and index g,k
 ![Odd-even-odd](images/collatz_flow.png)
 
-# Odd-to-odd network by index
+# Odd-to-odd network by index g,k
 ![Odd-to-odd](images/collatz_S_tree.png)
 
